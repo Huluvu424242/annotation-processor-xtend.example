@@ -4,7 +4,6 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.itemis</groupId>
 	<artifactId>xtendedNeo4j</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<name>xtend-quickstart</name>
 	<properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -60,4 +59,10 @@
 			<version>${xtend.version}</version>
 		</dependency>
 	</dependencies>
+	<parent>
+		<groupId>de.javamagazin</groupId>
+		<artifactId>xtendOnNeo4jParent</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+		<relativePath>../xtendOnNeo4jParent</relativePath>
+	</parent>
 </project>
