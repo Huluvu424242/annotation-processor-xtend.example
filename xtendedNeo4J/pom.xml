@@ -5,10 +5,8 @@
 	<groupId>com.itemis</groupId>
 	<artifactId>xtendedNeo4j</artifactId>
 	<name>xtend-quickstart</name>
-	<properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <xtend.version>2.5.1-SNAPSHOT</xtend.version>
-	</properties>
+	
+	
 	<build>
 		<plugins>
 			<plugin>
