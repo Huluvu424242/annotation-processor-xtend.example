@@ -4,9 +4,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.itemis</groupId>
 	<artifactId>xtendedNeo4j</artifactId>
-	<name>xtend-quickstart</name>
-	
-	
+	<name>Xtend Neo4J Annotation Processor</name>
+
+
 	<build>
 		<plugins>
 			<plugin>
@@ -53,7 +53,7 @@
 		</dependency>
 		<dependency>
 			<groupId>org.eclipse.xtend</groupId>
-			<artifactId>org.eclipse.xtend.standalone</artifactId>
+			<artifactId>org.eclipse.xtend.core</artifactId>
 			<version>${xtend.version}</version>
 		</dependency>
 	</dependencies>

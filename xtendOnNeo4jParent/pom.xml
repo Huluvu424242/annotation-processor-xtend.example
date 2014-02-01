@@ -6,12 +6,31 @@
 	<artifactId>xtendOnNeo4jParent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>xtend-quickstart</name>
+	<name>Xtend Neo4J Parent</name>
+	
+	
 	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<xtend.version>2.4.3</xtend.version>
+		<xtend.version>2.5.1-SNAPSHOT</xtend.version>
 	</properties>
+	
+	
+	
+    <repositories>
+        <repository>
+            <id>xtend</id>
+            <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
+        </repository>
+    </repositories>
+    <pluginRepositories>
+        <pluginRepository>
+            <id>xtend</id>
+            <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
+        </pluginRepository>
+    </pluginRepositories>
+
+   
 	
 	<modules>
 		<module>../xtendedNeo4J</module>
