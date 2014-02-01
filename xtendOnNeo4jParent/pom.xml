@@ -15,21 +15,20 @@
 		<xtend.version>2.5.1-SNAPSHOT</xtend.version>
 	</properties>
 
-
 	<repositories>
 		<repository>
-			<id>xtend</id>
+			<id>xtend-repo</id>
 			<url>https://oss.sonatype.org/content/repositories/snapshots/</url>
 		</repository>
 	</repositories>
+
+
 	<pluginRepositories>
 		<pluginRepository>
-			<id>xtend</id>
+			<id>xtend-plugin-repo</id>
 			<url>https://oss.sonatype.org/content/repositories/snapshots/</url>
 		</pluginRepository>
 	</pluginRepositories>
-
-
 
 	<modules>
 		<module>../xtendedNeo4J</module>
