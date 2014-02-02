@@ -12,6 +12,6 @@ jdk:
 # - "sh -e /etc/init.d/xvfb start"
 
 script: 
-   - "mvn -U -f ./xtendedNeo4j/pom.xml clean install"
-   - "mvn -U -f ./xtendOnNeo4jExample/pom.xml install"  
-   - "mvn -U -f ./xtendOnNeo4jParent/pom.xml install"
+#   - "mvn -U -f ./xtendedNeo4j/pom.xml clean install"
+#   - "mvn -U -f ./xtendOnNeo4jExample/pom.xml install"  
+   - "mvn -U -f ./xtendOnNeo4jParent/pom.xml clean install"
