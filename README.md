@@ -14,7 +14,6 @@ gefunden werden.
 !!! Wettbewerb !!!
 
 Der Erste der herausfindet warum der Travis Build nicht funktioniert (bei mir lokal funzt alles auf Windows Vista SP2 mit Oracle JDK7...09 und maven 3.1.1)
-der bekommt 0,01 BitCoin überwiesen. Als der Erste gilt wer einen PullRequest stellt und als erster einen Kommentar unter [Issue 1](https://github.com/FunThomas424242/annotation-processor-xtend.example/issues/1) mit 
-Verweis auf seinen Pullrequest setzt.
+der bekommt 0,01 BitCoin überwiesen. Als der Erste gilt wer einen PullRequest mit einer funktionierenden Lösung stellt und als erster einen Kommentar unter [Issue 1](https://github.com/FunThomas424242/annotation-processor-xtend.example/issues/1) mit Verweis auf seinen Pullrequest setzt.
 
 
