@@ -35,7 +35,7 @@
 		<dependency>
 			<groupId>com.itemis</groupId>
 			<artifactId>xtendedNeo4j</artifactId>
-			<version>${project.version}</version>
+			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 	
