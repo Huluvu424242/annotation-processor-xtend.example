@@ -33,7 +33,7 @@
 	</pluginRepositories>
 
 	<modules>
-		<module>../xtendedNeo4J</module>
+		<module>../xtendedNeo4j</module>
 		<module>../xtendOnNeo4jExample</module>
 	</modules>
 
