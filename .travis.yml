@@ -7,8 +7,10 @@ jdk:
 #env:
 #  - server=travis-ci BAR=bar
   
-before_install:
-  - "mvn -U -f ./xtendOnNeo4j/pom.xml clean install"
-  - "mvn -U -f ./xtendOnNeo4jExample/pom.xml install"
-  
+#before_install:
+#  - "mvn -U -f ./xtendOnNeo4j/pom.xml clean install"
+#  - "mvn -U -f ./xtendOnNeo4jExample/pom.xml install"
+
+script: "mvn -U -f ./xtendOnNeo4j/pom.xml clean install"
+script: "mvn -U -f ./xtendOnNeo4jExample/pom.xml install"  
 script: "mvn -U -f ./xtendOnNeo4jParent/pom.xml install"
