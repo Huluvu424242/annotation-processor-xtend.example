@@ -9,7 +9,7 @@ Eine alternative Realisierungsmöglichkeit über Standard Java Prozessoren kann 
 [annotation-processor-plugin.example](https://github.com/FunThomas424242/annotation-processor-plugin.example)
 gefunden werden.
 
-[![Build Status](https://travis-ci.org/FunThomas424242/annotation-processor-xtend.example.png?branch=master)](https://travis-ci.org/FunThomas424242/annotation-processor-xtend.example)
+[![Build Status](https://app.travis-ci.com/Huluvu424242/annotation-processor-plugin.example.svg?branch=master)](https://app.travis-ci.com/Huluvu424242/annotation-processor-plugin.example)
 
 !!! Wettbewerb !!!
 
